@@ -1,0 +1,6 @@
+.gitignore
+.npmignore
+.project
+.settings
+
+node_modules

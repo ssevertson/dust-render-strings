@@ -1,0 +1,19 @@
+{
+  "name": "dust-render-strings",
+  "version": "0.0.1",
+  "description": "Render dust templates inside nested object properties",
+  "author": "Scott Severtson",
+  "homepage": "http://github.com/ssevertson/dust-render-strings",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ssevertson/dust-render-strings.git"
+  },
+  "dependencies": {
+    "tea-type": "~0.1.0",
+    "dustjs-linkedin": "~1.2.4"
+  },
+  "main": "./lib/main",
+  "engines": {
+    "node": "*"
+  }
+}
